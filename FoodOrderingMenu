@@ -134,7 +134,19 @@ public class FoodOrder {
                System.exit(1);
            } else { System.out.println("Invalid Choice"); }
 
+
+/ *
+
        }
     }
 }
 
+/*
+    in order to check the app
+    just create the following instance
+    and call the two methods
+    --------- Main ---------------
+    FoodOrder fo = new FoodOrder();
+    fo.displayMenu();
+    fo.order();
+ */
